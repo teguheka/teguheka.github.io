@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75d9b4ed-eb66-4042-a8d8-aca7aae12842" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/fontawsom-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/PT_Sans-Web-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/PT_Sans-Web-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/RobotoSlab-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/RobotoSlab-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/gallery_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/profile-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/scroll-fixed/jquery-scrolltofixed-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Iconsb26c.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Iconsb26c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Iconsb26c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Iconsb26c.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Simple-Line-Iconsb26c.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L58SBc6ul5aXd9OvoUJqX9dp0p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75d9b4ed-eb66-4042-a8d8-aca7aae12842" name="Default Changelist" comment="" />
+      <created>1675149580831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675149580831</updated>
+      <workItem from="1675149582528" duration="9368000" />
+      <workItem from="1675220693084" duration="3204000" />
+      <workItem from="1675226155812" duration="33000" />
+      <workItem from="1675226197265" duration="2692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
